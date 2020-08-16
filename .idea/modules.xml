@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Beike/Beike_bishi.iml" filepath="$PROJECT_DIR$/Beike/Beike_bishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beike/Beike.iml" filepath="$PROJECT_DIR$/Beike/Beike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteDance/ByteDance.iml" filepath="$PROJECT_DIR$/ByteDance/ByteDance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Meituan/Meituan.iml" filepath="$PROJECT_DIR$/Meituan/Meituan.iml" />
     </modules>
   </component>
