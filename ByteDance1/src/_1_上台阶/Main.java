@@ -1,5 +1,9 @@
-package _2_上台阶;
+package _1_上台阶;
 
+/*
+只能走1或2步；
+且不能连续走两步。
+ */
 import java.util.Scanner;
 
 public class Main {
